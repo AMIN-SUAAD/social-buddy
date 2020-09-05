@@ -1,0 +1,11 @@
+
+#head{
+    color: gray;
+    padding-left: 20px;
+}
+#body{
+    background-color: #d6edf6;
+    height: 150px;
+    padding-left: 10px;
+    padding-top: 1px;
+}
